@@ -1,0 +1,4 @@
+interface:
+  display_name: "Query Agent Context"
+  short_description: "Trace commits to local agent conversations"
+  default_prompt: "Use $query-agent-context to trace this commit to its agent conversation."
